@@ -21,4 +21,4 @@ jobs:
 
       - name: Upload files to S3
         run: |
-          aws s3 sync ./skj  s3://skjHacker
+          aws s3 sync ./skj  s3://skj22
